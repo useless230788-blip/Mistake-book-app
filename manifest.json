@@ -10,27 +10,27 @@
   "theme_color": "#f59e0b",
   "icons": [
     {
-      "src": "https://api.iconify.design/lucide/book-marked.png?color=%23fbbf24&width=192&height=192",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "https://api.iconify.design/lucide/book-marked.png?color=%23fbbf24&width=512&height=512",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "https://api.iconify.design/lucide/book-marked.png?color=%23fbbf24&width=192&height=192",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiMwYTA5MDciIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzBhMDkwNyIvPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
       "sizes": "192x192",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "maskable"
     },
     {
-      "src": "https://api.iconify.design/lucide/book-marked.png?color=%23fbbf24&width=512&height=512",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiMwYTA5MDciIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzBhMDkwNyIvPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/svg+xml",
       "purpose": "maskable"
     }
   ]
