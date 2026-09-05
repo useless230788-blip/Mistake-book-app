@@ -10,27 +10,27 @@
   "theme_color": "#f59e0b",
   "icons": [
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
+      "src": "https://dummyimage.com/192x192/0a0907/fbbf24.png&text=MB",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
+      "src": "https://dummyimage.com/512x512/0a0907/fbbf24.png&text=MB",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiMwYTA5MDciIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzBhMDkwNyIvPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
+      "src": "https://dummyimage.com/192x192/0a0907/fbbf24.png&text=MB",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGZpbGw9IiMwYTA5MDciIHN0cm9rZT0iI2ZiYmYyNCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzBhMDkwNyIvPjxwYXRoIGQ9Im0xOSAyMS03LTQtNyA0VjVhMiAyIDAgMCAxIDItMmgxMGEyIDIgMCAwIDEgMiAydjE2eiIvPjxwYXRoIGQ9Im05IDJ2OGwzLTMgMyAzVjIiLz48L3N2Zz4=",
+      "src": "https://dummyimage.com/512x512/0a0907/fbbf24.png&text=MB",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/png",
       "purpose": "maskable"
     }
   ]
